@@ -20,7 +20,7 @@ function Header()  {
                     <img className="navigation__car" src={buyCar} alt="carro de compra" />
                  </nav>
                
-                 <img className="slider" src={imgPrincipal} alt="imagen de collar" />
+                 {/*<img className="slider" src={imgPrincipal} alt="imagen de collar" />*/}
              </header>
          </Fragment>
        )

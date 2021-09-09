@@ -1,0 +1,64 @@
+.CardContainer{
+    display: flex;
+    justify-content: center;
+}
+.CardProduct{
+    width: 20rem;
+    height: 25rem;
+    margin: 1rem;
+   box-shadow: 0 1rem 1.5rem 0 #DFDBDB; 
+   border-radius: 0.5rem;
+   position: relative;
+  cursor: pointer;
+}
+.CardProduct__img{
+    width: 100%;
+    height: 15rem;
+    border-radius: 0.5rem;
+    
+}
+.CardProduct__img img{
+    width: 100%;
+    height: 100%;
+    overflow: hidden; 
+    border-radius:  0.5rem  0.5rem 0 0;
+}
+.CardProduct__info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.CardProduct__info h3{
+    font-size: 1.5rem;
+    font-family: 'Oswald', sans-serif;
+}
+.CardProduct__info p{
+    font-weight:500;
+    font-family: 'Oswald', sans-serif;
+}
+.buttomProduct{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    height: 2rem;
+    width: 8rem;
+    top: 85%;
+    background-color: #3CAA36;
+    border-radius: 0.5rem;
+    position: absolute;
+    
+}    
+    
+.buttomProduct a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 0.9rem;
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+    
+}
+/*HACER HOVER*/

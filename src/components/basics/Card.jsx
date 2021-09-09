@@ -7,11 +7,14 @@ function Card () {
         <Fragment>
             <div className="card">
                 <img src={imgEarrings} alt="imagen aretes" />
-            </div>
-            <div className="cardShadown">
-
-            </div>
-        </Fragment>
+                <div className="cardShadown">
+                     <a target="_blank" rel="noopener noreferrer" href="https://www.automarcalichevrolet.co/">Aretes</a>
+                </div>
+             </div>
+        </Fragment>     
+           
+            
+        
      );
 }
  
