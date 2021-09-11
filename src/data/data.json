@@ -1,0 +1,94 @@
+[
+   {
+        "id":1,
+        "name": "Aretes2",
+        "img": "https://i.ibb.co/n3SNhz8/aretes2.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":2,
+        "name": "Aretes3",
+        "img": "https://i.ibb.co/WpCw834/aretes3.jpg",
+        "precio": "$20.00 cop"
+
+    },
+    {
+        "id":3,
+        "name": "Arete4",
+        "img": "https://i.ibb.co/W3SXB1q/aretes4.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":4,
+        "name": "Arete5",
+        "img": "https://i.ibb.co/6WGWcmX/aretes5.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":5,
+        "name": "Arete6",
+        "img": "https://i.ibb.co/rw2JwPN/aretes6.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":6,
+        "name": "Arete7",
+        "img": "https://i.ibb.co/LkXGZ9Q/aretes9.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":7,
+        "name": "Arete8",
+        "img": "https://i.ibb.co/VpFSLnP/aretes10.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":8,
+        "name": "Arete9",
+        "img": "https://i.ibb.co/vvMZxh2/aretes11.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":9,
+        "name": "Arete10",
+        "img": "https://i.ibb.co/47w7N5G/aretes13.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":10,
+        "name": "Arete11",
+        "img": "https://i.ibb.co/jWbD5nS/aretes15.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":11,
+        "name": "Arete12",
+        "img": "https://i.ibb.co/6ryJ1Yj/aretes16.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":12,
+        "name": "Arete13",
+        "img": "https://i.ibb.co/ysxm1vp/aretes18.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":13,
+        "name": "Arete14",
+        "img": "https://i.ibb.co/QvrGcys/aretes19.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":14,
+        "name": "Arete15",
+        "img": "https://i.ibb.co/BzjrG7h/aretes12.jpg",
+        "precio": "$20.00 cop"
+    },
+    {
+        "id":15,
+        "name": "Arete16",
+        "img": "https://i.ibb.co/yV8T1S0/aretes14.jpg",
+        "precio": "$20.00 cop"
+    }
+]
+

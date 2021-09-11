@@ -1,14 +1,13 @@
 import React, {Fragment} from 'react';
-import imgEarrings from '../../images/aretes.jpeg';
 import './style/card.css'
 
-function Card () {
+function Card (props) {
     return ( 
         <Fragment>
             <div className="card">
-                <img src={imgEarrings} alt="imagen aretes" />
+                <img src={props.img} alt="imagen aretes" />
                 <div className="cardShadown">
-                     <a target="_blank" rel="noopener noreferrer" href="https://www.automarcalichevrolet.co/">Aretes</a>
+                     <a target="_blank" rel="noopener noreferrer" href="#">{props.category}</a>
                 </div>
              </div>
         </Fragment>     

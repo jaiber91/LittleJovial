@@ -1,7 +1,9 @@
 import React, {Fragment} from 'react';
+import { Link } from 'react-router-dom';
 import Logo from '../../images/logo.png';
 import buyCar from '../../images/icons/car.svg';
-import imgPrincipal from '../../images/img.jpeg';
+
+//import imgPrincipal from '../../images/img.jpeg';
 import './style/header.css';
 
 
@@ -12,16 +14,18 @@ function Header()  {
                  <nav className="navigation">
                     <img className="navigation__logo" src={Logo} alt="logo" />
                     <ul className="navigation__items">
-                        <li>Home</li>
-                        <li>Productos</li>
-                        <li>Nosotros</li>
-                        <li>Contacto</li>
+                        <li><Link to="/">Home</Link></li>
+                        <li><Link to="/">Productos</Link></li>
+                        <li><Link to="/About">Nosotros</Link></li>
+                        <li><Link to="/Contact">Contacto</Link></li>
                     </ul>
                     <img className="navigation__car" src={buyCar} alt="carro de compra" />
                  </nav>
                
                  {/*<img className="slider" src={imgPrincipal} alt="imagen de collar" />*/}
              </header>
+            
+
          </Fragment>
        )
  }
